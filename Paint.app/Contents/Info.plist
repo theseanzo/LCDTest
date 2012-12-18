@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleExecutable</key>
+        <string>JavaApplicationStub</string>
+        <key>CFBundleGetInfoString</key>
+        <string>Main1.0, Copyright {user} 2004. All rights reserved.</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundleIconFile</key>
+        <string>Paint.icns</string>
+        <key>CFBundleIdentifier</key>
+        <string>Paint</string>
+        <key>CFBundleName</key>
+        <string>Paint</string>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>CFBundleVersion</key>
+        <string>1.0.1</string>
+        <key>Java</key>
+        <dict>
+            <key>JVMVersion</key>
+            <string>1.4*</string>
+            <key>MainClass</key>
+            <string>Main</string>
+            <key>Arguments</key>
+            <array/>
+            <key>ClassPath</key>
+            <string>$JAVAROOT/jar_0.jar:$JAVAROOT/core.jar:$JAVAROOT/gluegen-rt.jar:$JAVAROOT/jogl.jar:$JAVAROOT/opengl.jar:$JAVAROOT/apache-mime4j-0.6.jar:$JAVAROOT/commons-codec-1.3.jar:$JAVAROOT/commons-logging-1.1.1.jar:$JAVAROOT/gson-1.4.jar:$JAVAROOT/httpclient-4.0.1.jar:$JAVAROOT/httpcore-4.0.1.jar:$JAVAROOT/httpmime-4.0.1.jar:$JAVAROOT/joda-time-1.6.jar:$JAVAROOT/postmark.jar:$JAVAROOT/fullscreen.jar:$JAVAROOT/jl1.0.jar:$JAVAROOT/jsminim.jar:$JAVAROOT/minim-spi.jar:$JAVAROOT/minim.jar:$JAVAROOT/mp3spi1.9.4.jar:$JAVAROOT/tritonus_aos.jar:$JAVAROOT/tritonus_share.jar</string>
+        </dict>
+    </dict>
+</plist>

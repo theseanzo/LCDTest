@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+	<dripsetting>
+	<dripGrowthMin>2.0</dripGrowthMin>
+	<dripGrowthMax>4.0</dripGrowthMax>
+	<dripSpeedMin>0.6</dripSpeedMin>
+	<dripSpeedMax>0.7</dripSpeedMax>
+	<dripWidthMin>20.0</dripWidthMin>
+	<dripWidthMax>40.0</dripWidthMax>
+	<dripDropMin>30.0</dripDropMin>
+	<dripDropMax>125.0</dripDropMax>
+	<dripThickMin>2.0</dripThickMin>
+	<dripThickMax>4.0</dripThickMax>
+	<dripTime>10</dripTime>
+	<dripAmount>1</dripAmount>
+	</dripsetting>
+	
+	<nozzlesetting>
+		<nozzlesound>grafspray.wav</nozzlesound>
+		<nozzlescalemax>1.0f</nozzlescalemax>
+		<nozzlescalemin>0.5f</nozzlescalemin>
+		<pressuremax>255</pressuremax>
+		<pressuremin>125</pressuremin>
+	</nozzlesetting>
+	
+	<screensetting>
+		<screenwidth>1920</screenwidth>
+		<screenheight>1200</screenheight>
+	</screensetting>
+	
+	<logosettings>
+		<topleft>null</topleft>
+		<topright>null</topright>
+		<bottomleft>catsticker.png</bottomleft>
+		<bottomright>catsticker.png</bottomright>
+		<background>owlsticker.png</background>
+	</logosettings>
+	<keymenusetting>
+		<postmarkemail>Postmark@Seanzo.ca</postmarkemail>
+		<postmarkid>Postmark</postmarkid>
+		<postmarktext>Sent to you with Postmark by Tangible Interaction</postmarktext>
+		<postmarkclient>21cfcc88-312d-4a46-8414-a46e1de5e1ef</postmarkclient>
+		<approvalmessage>This needs to be written in at a later date</approvalmessage>
+	</keymenusetting>
+	<stickersetting>
+		<stickerfloatscale>2.0</stickerfloatscale>
+		<stickerplacescale>1.0</stickerplacescale>
+	</stickersetting>
+	
+	<animationsetting>
+		<animationspeed>0.05</animationspeed>
+		<flips>3</flips>
+	</animationsetting>
+	<colour id="0">
+		<val>153,46,131</val>
+	</colour>
+	<colour id="1">
+		<val>99,53,113</val>
+	</colour>
+	<colour id="2">
+		<val>230,25,25</val>
+	</colour>
+	<colour id="3">
+		<val>118,211,206</val>
+	</colour>
+	<colour id="4">
+		<val>167,21,53</val>
+	</colour>
+	<colour id="5">
+		<val>36,250,141</val>
+	</colour>
+	<colour id="6">
+		<val>142,139,113</val>
+	</colour>
+	<colour id="7">
+		<val>177,108,181</val>
+	</colour>
+	<colour id="8">
+		<val>45,65,228</val>
+	</colour>
+	<colour id="9">
+		<val>30,140,254</val>
+	</colour>
+	<colour id="10">
+		<val>56,112,204</val>
+	</colour>
+	<colour id="11">
+		<val>57,243,140</val>
+	</colour>
+	<colour id="12">
+		<val>50,99,254</val>
+	</colour>
+	<colour id="13">
+		<val>206,62,168</val>
+	</colour>
+	<colour id="14">
+		<val>208,141,58</val>
+	</colour>
+	<colour id="15">
+		<val>181,91,206</val>
+	</colour>
+	<colour id="16">
+		<val>58,242,13</val>
+	</colour>
+	<colour id="17">
+		<val>239,1,112</val>
+	</colour>
+	<colour id="18">
+		<val>61,181,16</val>
+	</colour>
+	<colour id="19">
+		<val>79,106,187</val>
+	</colour>
+	<colour id="20">
+		<val>54,242,204</val>
+	</colour>
+	<colour id="21">
+		<val>52,222,89</val>
+	</colour>
+	<colour id="22">
+		<val>93,209,85</val>
+	</colour>
+	<colour id="23">
+		<val>83,110,164</val>
+	</colour>
+	<colour id="24">
+		<val>83,92,37</val>
+	</colour>
+	<colour id="25">
+		<val>145,103,213</val>
+	</colour>
+	<colour id="26">
+		<val>245,227,243</val>
+	</colour>
+	<colour id="27">
+		<val>77,7,8</val>
+	</colour>
+	<colour id="28">
+		<val>254,226,45</val>
+	</colour>
+	<colour id="29">
+		<val>69,134,125</val>
+	</colour>
+	<colour id="30">
+		<val>121,149,249</val>
+	</colour>
+	<colour id="31">
+		<val>104,179,60</val>
+	</colour>
+	
+</settings>
